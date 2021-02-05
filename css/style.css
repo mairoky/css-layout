@@ -1,0 +1,49 @@
+body{
+	background-color: #CACFD2;
+}
+.header{
+	border: 2px solid pink;
+	background-color: #EB984E;
+	min-height: 100px;
+}
+.main_container{
+	border: 2px solid pink;
+	overflow: hidden;
+}
+.left_container{
+	background-color: #117A65;
+	width: 60%;
+	min-height: 300px;
+	float: left;
+}
+.right_container{
+	background-color: #6C3483;
+	width: 40%;
+	min-height: 300px;
+	float: right;
+}
+.service_box{
+	border: 2px solid pink;
+	overflow: hidden;
+}
+.box{
+	width: 33.33%;
+	min-height: 200px; 
+}
+.box1{
+	background-color: #CB4335;
+	float: left;
+}
+.box2{
+	background-color: #196F3D;
+	float: left;
+}
+.box3{
+	background-color: #1F618D;
+	float: left;
+}
+.footer{
+	border: 2px solid pink;
+	background-color: #1C2833;
+	min-height: 150px;
+}
